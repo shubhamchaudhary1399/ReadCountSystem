@@ -1,0 +1,23 @@
+.shead{
+  float: left;
+  width: 50%;
+  margin-top: -10px;
+}
+
+.tviews{
+  float: right;
+}
+
+@media screen and (max-width: 768px){
+  .shead{
+    display: block;
+    width: 100%;
+  }
+
+  .tviews{
+    float: left;
+    display: block;
+    width: 100%;
+  }
+
+}

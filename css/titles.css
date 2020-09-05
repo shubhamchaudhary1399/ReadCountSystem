@@ -1,0 +1,25 @@
+.cd-column{
+  margin-bottom: 20px;
+}
+
+.my-cd {
+    margin: auto;
+}
+
+.food-btn{
+	background: #FF8C00;
+	color: #FFF;
+  border: none;
+}
+
+.food-btn:hover, .food-btn:focus, .food-btn:active{
+  color: #FFF !important;
+	background: #FF6347;
+  box-shadow: none !important;
+}
+
+.readviews{
+  position: relative;
+  margin-left: 10px;
+  top: -7px;
+}

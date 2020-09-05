@@ -16,9 +16,8 @@
 			</div>
 
 			<div class="navbar-r">
-				<a href="myorders.php" class="links">My Orders</a>
 				<a href="logout_script.php" class="links">Logout</a>
-				<a class="menu-link links" href="menu.php">Stories</a>
+				<a class="menu-link links" href="titles.php">Read Stories</a>
 			</div>
 		</div>
 	</div>
@@ -29,12 +28,9 @@
         <li><a href="index.php" class="links nav-links">
           <span class="material-icons material-icon">account_circle</span>
           <span class="mt-aside">Hi <?php echo $_SESSION['firstname']; ?></span></a></li>
-				<li><a href="menu.php" class="links nav-links">
-          <span class="material-icons material-icon">Stories</span>
-          <span class="mt-aside">See Menu</span></a></li>
-				<li><a href="myorders.php" class="links nav-links">
-          <span class="material-icons material-icon">local_shipping</span>
-          <span class="mt-aside">My Orders</span></a></li>
+				<li><a href="titles.php" class="links nav-links">
+          <span class="material-icons material-icon">menu_book</span>
+          <span class="mt-aside">Read Stories</span></a></li>
 				<li><a href="logout_script.php" class="links nav-links">
           <span class="material-icons material-icon">exit_to_app</span>
           <span class="mt-aside">Logout</span></a></li>
@@ -52,7 +48,7 @@
 			</div>
 
 			<div class="navbar-r">
-				<a class="menu-link links" href="menu.php">Read Stories</a>
+				<a class="menu-link links" href="titles.php">Read Stories</a>
 			</div>
 		</div>
 	</div>
@@ -66,7 +62,7 @@
 				<li><a href="register.php" class="links nav-links">
           <span class="material-icons material-icon">account_circle</span>
           <span class="mt-aside">Register</span></a></li>
-				<li><a href="menu.php" class="links nav-links">
+				<li><a href="titles.php" class="links nav-links">
           <span class="material-icons material-icon">menu_book</span>
           <span class="mt-aside">Read Stories</span></a></li>
 			</ul>
