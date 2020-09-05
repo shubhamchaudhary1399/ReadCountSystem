@@ -1,4 +1,4 @@
-<footer class="footer-food">
+<footer class="footer-read">
 	<div class="max-width">
 
 		<div class="row-social">
@@ -17,7 +17,7 @@
 
 		<div class="row-social" style="border: none;padding: 10px 0 10px 0;">
 			<div class="brand-footer">
-			<span class="material-icons md-36" style="float: left;">fastfood</span>
+			<span class="material-icons md-36" style="float: left;">library_books</span>
 			<a href="index.php" class="logo tags links">ReadCount</a></div>
 			<div class="details">
 				<a href="#" class="tags links" style="font-size: 14px;">Terms & conditions</a>

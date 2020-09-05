@@ -1,4 +1,4 @@
-.footer-food{
+.footer-read{
 	padding: 11px 20px;
 	margin: 0;
 	background: #393939;
@@ -30,7 +30,7 @@
 
 .tags:hover{
 	font-weight: 300;
-	color: #81d0e8;
+	color: #FF6347;
 	text-decoration: none;
 }
 
