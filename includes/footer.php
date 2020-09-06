@@ -11,7 +11,7 @@
 			<div class="links-account">
 			<a href="login.php" class="tags links">Login</a>
 			<a href="register.php" class="tags links">Register</a>
-			<a href="menu.php" class="tags links">See Menu</a>
+			<a href="titles.php" class="tags links">Read Stories</a>
 			</div>
 		</div>
 
